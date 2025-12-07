@@ -3,7 +3,7 @@
 	"package": "com.desx.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"MailoMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
