@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "mailo-addition:dry_grass"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "S",
+    "G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mailo-addition:ignition_stick"
+  }
+}

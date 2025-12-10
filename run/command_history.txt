@@ -1,0 +1,16 @@
+/give Player38 mailo-addition:bonsai_pot
+/time set day
+/give Player530 mailo-addition:dry_grass
+/give Player530 mailo-addition:ignition_stick
+/give Player530 mailo-addition:plant_twine
+/give Player530 mailo-addition:fire_pit
+/give Player530 mailo-addition:dry_grass\
+/give Player530 mailo-addition:dry_grass 34
+/give Player620 mailo-addition:dry_grass 34
+/give Player620 mailo-
+/give Player620 mailo-addition:primitive_knife
+/give Player122 mailo-addition:primitive_knife
+/gamemode survival
+/gamemode creative
+/give Player122 mailo-addition:flint_shard
+/gamemode survival

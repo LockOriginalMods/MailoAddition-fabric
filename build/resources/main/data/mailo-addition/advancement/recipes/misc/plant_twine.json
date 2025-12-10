@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dry_grass": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mailo-addition:dry_grass"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mailo-addition:plant_twine"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dry_grass"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mailo-addition:plant_twine"
+    ]
+  }
+}

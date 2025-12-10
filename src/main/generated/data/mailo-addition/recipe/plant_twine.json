@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "mailo-addition:dry_grass"
+    }
+  },
+  "pattern": [
+    "G",
+    "G",
+    "G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mailo-addition:plant_twine"
+  }
+}

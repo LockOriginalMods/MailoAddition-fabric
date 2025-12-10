@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/flower_pot",
+  "textures": {
+    "dirt": "mailo-addition:block/bonsai_pot_top",
+    "flowerpot": "mailo-addition:block/bonsai_pot_side",
+    "particle": "mailo-addition:block/bonsai_pot_side"
+  }
+}

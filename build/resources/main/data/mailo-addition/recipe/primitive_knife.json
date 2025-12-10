@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "mailo-addition:flint_shard"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "mailo-addition:plant_twine"
+    }
+  },
+  "pattern": [
+    " F",
+    "TS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mailo-addition:primitive_knife"
+  }
+}

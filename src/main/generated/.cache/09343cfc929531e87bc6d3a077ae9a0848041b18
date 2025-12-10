@@ -1,0 +1,12 @@
+// 1.21.1	2025-12-09T19:57:37.1903519	Mailo Addition/Model Definitions
+0818a78d726f44dc7c953f9279e657388448c1a3 assets\mailo-addition\models\item\dry_grass.json
+4ca394218edf1d2b5291ebc11e8127b3068f34a8 assets\mailo-addition\models\block\bonsai_pot.json
+bd0697d6c1306b8fbe38324851cb8f930efc5d96 assets\mailo-addition\models\item\bonsai_pot.json
+d4aa3c9427c90579f82a0843352bc23445828478 assets\mailo-addition\blockstates\bonsai_pot.json
+07d7163e463e74e6019af4e2194be6a66d27925b assets\mailo-addition\models\item\flint_shard.json
+8fd0aa2e72dd291fe6a22d1387e7c3ef40581caf assets\mailo-addition\models\block\fire_pit.json
+673131fd8732ad702455b189d82676d540d636d1 assets\mailo-addition\models\item\fire_pit.json
+6bfbe6184389fcff0562f75acd2cb3388dff9341 assets\mailo-addition\blockstates\fire_pit.json
+83cd36b2930674f3662ce14760ddf70d817c0acf assets\mailo-addition\models\item\ignition_stick.json
+354d28c881c825807d777d5bc657f5722c3fc27f assets\mailo-addition\models\item\primitive_knife.json
+3e1c093ac667e6e6f59e3ccbf65f710e12c12dad assets\mailo-addition\models\item\plant_twine.json
