@@ -20,14 +20,17 @@
 		],
 		"fabric-datagen": [
 			"com.desx.MailoAdditionDataGenerator"
-		]
-	},
+		],
+      "client": [
+        "com.desx.MailoAdditionClient"
+      ]
+    },
 	"mixins": [
 		"mailo-addition.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.18.1",
-		"minecraft": "~1.21.10",
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
